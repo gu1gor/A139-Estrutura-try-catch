@@ -18,6 +18,11 @@ public class A139_Estrutura_try_catch {
             System.out.println("Input error");
         }
         System.out.println("End of program");
+        
+        
+        
+        System.out.println("Test github");
+        
         sc.close();
 
     }
